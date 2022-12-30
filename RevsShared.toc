@@ -1,0 +1,7 @@
+## Interface: 100002
+## Title: Revolutions Shared 
+
+Libs\LibStub\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+embeds.xml
+SharedMedia.lua 
