@@ -15,7 +15,7 @@ local LSM = LibStub("LibSharedMedia-3.0")
 -- -----
 --   SOUND
 -- -----
-LSM:Register("sound", "noot noot!", [[Interface\Addons\RevsShared\Assets\Audio\Noot.mp3]])
+LSM:Register("sound", "noot noot!", [[Interface\Addons\RevsShared\Assets\Audio\Noot.ogg]])
 -- -----
 --   STATUSBAR
 -- -----
