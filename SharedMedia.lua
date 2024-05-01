@@ -12,3 +12,6 @@ LSM:Register("sound", "Harci Red Dragon", [[Interface\Addons\RevsShared\Assets\A
 -- Harci Other
 LSM:Register("sound", "Harci Coming In Hot", [[Interface\Addons\RevsShared\Assets\Audio\HarciComingInHot.mp3]])
 LSM:Register("sound", "Harci Roar", [[Interface\Addons\RevsShared\Assets\Audio\HarciRoar.mp3]])
+
+-- Pedro
+LSM:Register("sound", "Pedro", [[Interface\Addons\RevsShared\Assets\Audio\pedro.mp3]])
